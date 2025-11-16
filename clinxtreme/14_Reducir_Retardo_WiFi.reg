@@ -1,5 +1,0 @@
-Windows Registry Editor Version 5.00
-
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
-"Tcp1323Opts"=dword:00000001
-"TcpWindowSize"=dword:0005ae4c
